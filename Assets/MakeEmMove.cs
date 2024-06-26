@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Pablo made this :>
+
 public class MakeEmMove : MonoBehaviour
 {
     public Animator Chicken;
